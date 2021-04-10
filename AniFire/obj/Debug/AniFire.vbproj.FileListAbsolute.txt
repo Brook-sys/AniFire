@@ -1,0 +1,78 @@
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\novoAnimesPlayer\bin\Debug\AniFire.exe.config
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\novoAnimesPlayer\bin\Debug\AniFire.exe
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\novoAnimesPlayer\bin\Debug\AniFire.pdb
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\novoAnimesPlayer\bin\Debug\AniFire.xml
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\novoAnimesPlayer\bin\Debug\FireSharp.dll
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\novoAnimesPlayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\novoAnimesPlayer\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\novoAnimesPlayer\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\novoAnimesPlayer\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\novoAnimesPlayer\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\novoAnimesPlayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\novoAnimesPlayer\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\novoAnimesPlayer\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\novoAnimesPlayer\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\novoAnimesPlayer\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\novoAnimesPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\novoAnimesPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\novoAnimesPlayer\obj\Debug\AniFire.vbproj.App.config
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\novoAnimesPlayer\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\novoAnimesPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\novoAnimesPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\novoAnimesPlayer\obj\Debug\AniFire.vbproj.ResolveComReference.cache
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\novoAnimesPlayer\obj\Debug\AniFire.Animes.resources
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\novoAnimesPlayer\obj\Debug\AniFire.Botao.resources
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\novoAnimesPlayer\obj\Debug\AniFire.EpisodioHOME.resources
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\novoAnimesPlayer\obj\Debug\AniFire.generos.resources
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\novoAnimesPlayer\obj\Debug\AniFire.PaginaInicial.resources
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\novoAnimesPlayer\obj\Debug\AniFire.Resources.resources
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\novoAnimesPlayer\obj\Debug\AniFire.Pesquisa.resources
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\novoAnimesPlayer\obj\Debug\AniFire.Teste.resources
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\novoAnimesPlayer\obj\Debug\AniFire.vbproj.GenerateResource.Cache
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\novoAnimesPlayer\obj\Debug\AniFire.exe
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\novoAnimesPlayer\obj\Debug\AniFire.xml
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\novoAnimesPlayer\obj\Debug\AniFire.pdb
+C:\Users\muril\3D Objects\Backup\Novo Player de Animes\Backup 11-0-2020 21h\AniFire\bin\Debug\AniFire.exe.config
+C:\Users\muril\3D Objects\Backup\Novo Player de Animes\Backup 11-0-2020 21h\AniFire\obj\Debug\AniFire.vbproj.App.config
+C:\Users\muril\3D Objects\Backup\Novo Player de Animes\Backup 11-0-2020 21h\AniFire\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\muril\3D Objects\Backup\Novo Player de Animes\Backup 11-0-2020 21h\AniFire\obj\Debug\Interop.WMPLib.dll
+C:\Users\muril\3D Objects\Backup\Novo Player de Animes\Backup 11-0-2020 21h\AniFire\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\muril\3D Objects\Backup\Novo Player de Animes\Backup 11-0-2020 21h\AniFire\obj\Debug\AniFire.vbproj.ResolveComReference.cache
+C:\Users\muril\3D Objects\Backup\Novo Player de Animes\Backup 11-0-2020 21h\AniFire\obj\Debug\AniFire.exe
+C:\Users\muril\3D Objects\Backup\Novo Player de Animes\Backup 11-0-2020 21h\AniFire\obj\Debug\AniFire.xml
+C:\Users\muril\3D Objects\Backup\Novo Player de Animes\Backup 11-0-2020 21h\AniFire\obj\Debug\AniFire.pdb
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\AniFire\AniFire\bin\Debug\AniFire.exe.config
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\AniFire\AniFire\obj\Debug\AniFire.vbproj.App.config
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\AniFire\AniFire\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\AniFire\AniFire\obj\Debug\Interop.WMPLib.dll
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\AniFire\AniFire\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\AniFire\AniFire\obj\Debug\AniFire.vbproj.ResolveComReference.cache
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\AniFire\AniFire\obj\Debug\AniFire.exe
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\AniFire\AniFire\obj\Debug\AniFire.xml
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\AniFire\AniFire\obj\Debug\AniFire.pdb
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\AniFire\AniFire\bin\Debug\AniFire.exe
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\AniFire\AniFire\bin\Debug\AniFire.pdb
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\AniFire\AniFire\bin\Debug\AniFire.xml
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\AniFire\AniFire\bin\Debug\FireSharp.dll
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\AniFire\AniFire\bin\Debug\Newtonsoft.Json.dll
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\AniFire\AniFire\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\AniFire\AniFire\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\AniFire\AniFire\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\AniFire\AniFire\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\AniFire\AniFire\bin\Debug\Newtonsoft.Json.xml
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\AniFire\AniFire\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\AniFire\AniFire\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\AniFire\AniFire\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\AniFire\AniFire\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\AniFire\AniFire\bin\Debug\Interop.WMPLib.dll
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\AniFire\AniFire\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\AniFire\AniFire\obj\Debug\AniFire.vbprojResolveAssemblyReference.cache
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\AniFire\AniFire\obj\Debug\AniFire.Animes.resources
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\AniFire\AniFire\obj\Debug\AniFire.Botao.resources
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\AniFire\AniFire\obj\Debug\AniFire.EpisodioHOME.resources
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\AniFire\AniFire\obj\Debug\AniFire.generos.resources
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\AniFire\AniFire\obj\Debug\AniFire.PaginaInicial.resources
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\AniFire\AniFire\obj\Debug\AniFire.Resources.resources
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\AniFire\AniFire\obj\Debug\AniFire.Pesquisa.resources
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\AniFire\AniFire\obj\Debug\AniFire.Teste.resources
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\AniFire\AniFire\obj\Debug\AniFire.vbproj.GenerateResource.Cache

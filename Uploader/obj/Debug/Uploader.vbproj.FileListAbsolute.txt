@@ -1,0 +1,31 @@
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\Uploader\bin\Debug\Uploader.exe.config
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\Uploader\bin\Debug\Uploader.exe
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\Uploader\bin\Debug\Uploader.pdb
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\Uploader\bin\Debug\Uploader.xml
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\Uploader\obj\Debug\Uploader.vbprojResolveAssemblyReference.cache
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\Uploader\obj\Debug\Uploader.Resources.resources
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\Uploader\obj\Debug\Uploader.vbproj.GenerateResource.Cache
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\Uploader\obj\Debug\Uploader.exe
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\Uploader\obj\Debug\Uploader.xml
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\Uploader\obj\Debug\Uploader.pdb
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\Uploader\obj\Debug\Uploader.Form1.resources
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\Uploader\bin\Debug\JikanDotNet.dll
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\Uploader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\Uploader\bin\Debug\JikanDotNet.xml
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\Uploader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\Uploader\bin\Debug\FireSharp.dll
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\Uploader\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\Uploader\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\Uploader\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\Uploader\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\Uploader\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\Uploader\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\Uploader\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\Uploader\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\Uploader\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\Uploader\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\novoAnimesPlayer\Uploader\obj\Debug\Uploader.vbproj.App.config
+C:\Users\muril\3D Objects\Backup\Novo Player de Animes\Backup 11-0-2020 21h\Uploader\bin\Debug\Uploader.exe.config
+C:\Users\muril\3D Objects\Backup\Novo Player de Animes\Backup 11-0-2020 21h\Uploader\obj\Debug\Uploader.exe
+C:\Users\muril\3D Objects\Backup\Novo Player de Animes\Backup 11-0-2020 21h\Uploader\obj\Debug\Uploader.xml
+C:\Users\muril\3D Objects\Backup\Novo Player de Animes\Backup 11-0-2020 21h\Uploader\obj\Debug\Uploader.pdb
