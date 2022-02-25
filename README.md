@@ -19,4 +19,5 @@ Assista animes no seu Desktop com a maior facilidade, tenha informações adicio
 - ***Adicionar*** Temas afim de possibilitar uma melhor customização.
 
 ## 💚 Contribuição
+Sinta-se livre para apoiar da forma que quiser e puder, apenas sendo necessario obedecer as diretrizes do Github.
 
